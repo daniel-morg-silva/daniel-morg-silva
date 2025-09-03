@@ -23,7 +23,7 @@ I'm a [Software Engineering student] passionate about [creating innovative solut
 ## 🔧 Technologies & Tools
 **Frontend:** JavaScript, HTML5, CSS
 **Backend:** Python, C, C#, SQL
-**Tools:** Git, VS Code, LATEX
+**Tools:** Git, VS Code
 
 ## 🚀 Featured Projects
 
