@@ -29,9 +29,9 @@ I'm a [Software Engineering student] passionate about [creating innovative solut
 
 Here are a few projects I've built:
 
-- **[Project One](https://github.com/yourusername/project-one)** | A short description of what it does and the tech stack used.
-- **[Project Two](https://github.com/yourusername/project-two)** | A short description of what it does and the tech stack used.
-- **[Project Three](https://github.com/yourusername/project-three)** | A short description of what it does and the tech stack used.
+- **[Project One]([https://github.com/yourusername/project-one](https://github.com/daniel-morg-silva/Portfolio/blob/main/PS4/filter-more/helpers.c))** | A program that applies various filters (grayscale, sepia, blur, edge detection) to BMP images by directly manipulating pixel data. | **Tech Used**: C, Algorithms
+- **[Project Two]([https://github.com/yourusername/project-two](https://github.com/daniel-morg-silva/Portfolio/tree/main/PS7/movies))** | A series of SQL queries to solve complex data questions from the IMDb database, such as listing all stars for a movie or finding the top-rated titles for a given year. | **Tech Used**: SQL
+- **[Project Three]([https://github.com/yourusername/project-three](https://github.com/daniel-morg-silva/Portfolio/tree/main/PS5/speller))** | A spell-checking program that implements a loaded dictionary as a hash table for optimal performance. Checks a text file for misspelt words with efficient lookups. | **Tech Used**: C, Data Structures (Hash Table), Algorithms
 
 ## 📈 GitHub Stats
 
