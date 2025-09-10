@@ -21,27 +21,28 @@ Here are some ideas to get you started:
 I'm a [Software Engineering student] passionate about [creating innovative solutions to real-world problems using software applications].
 
 ## 🔧 Technologies & Tools
-**Frontend:** JavaScript, HTML5, CSS
-**Backend:** Python, C, C#, SQL
-**Tools:** Git, VS Code
+- **Frontend:** JavaScript, HTML5, CSS
+- **Backend:** Python, C, C#, SQL
+- **Tools:** Git, VS Code
 
 ## 🚀 Featured Projects
 
 Here are a few projects I've built:
 
-- **[Project One]([https://github.com/yourusername/project-one](https://github.com/daniel-morg-silva/Portfolio/blob/main/PS4/filter-more/helpers.c))** | A program that applies various filters (grayscale, sepia, blur, edge detection) to BMP images by directly manipulating pixel data. | **Tech Used**: C, Algorithms
-- **[Project Two]([https://github.com/yourusername/project-two](https://github.com/daniel-morg-silva/Portfolio/tree/main/PS7/movies))** | A series of SQL queries to solve complex data questions from the IMDb database, such as listing all stars for a movie or finding the top-rated titles for a given year. | **Tech Used**: SQL
-- **[Project Three]([https://github.com/yourusername/project-three](https://github.com/daniel-morg-silva/Portfolio/tree/main/PS5/speller))** | A spell-checking program that implements a loaded dictionary as a hash table for optimal performance. Checks a text file for misspelt words with efficient lookups. | **Tech Used**: C, Data Structures (Hash Table), Algorithms
+- **[🖼️ Image Filter](https://github.com/daniel-morg-silva/Portfolio/blob/main/PS4/filter-more)** | A program that applies various filters (grayscale, sepia, blur, edge detection) to BMP images by directly manipulating pixel data. | **Tech Used**: C, Algorithms
+- **[🎬 Movies](https://github.com/daniel-morg-silva/Portfolio/tree/main/PS7/movies)** | A series of SQL queries to solve complex data questions from the IMDb database, such as listing all stars for a movie or finding the top-rated titles for a given year. | **Tech Used**: SQL
+- **[📚 Speller](https://github.com/daniel-morg-silva/Portfolio/tree/main/PS5/speller)** | A spell-checking program that implements a loaded dictionary as a hash table for optimal performance. Checks a text file for misspelt words with efficient lookups. | **Tech Used**: C, Data Structures (Hash Table), Algorithms
 
+<!---
 ## 📈 GitHub Stats
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+--->
 ## 📫 How to reach me
 - **LinkedIn:** [Daniel Silva ](https://www.linkedin.com/in/daniel-silva-3659022a9/)
 - **Email:** dasil25@student.sdu.dk
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+<!---- **Portfolio:** [yourportfolio.com](https://yourportfolio.com) --->
 
 <!---
 You can add a fun fact or a joke here!
