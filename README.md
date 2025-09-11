@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Daniel Silva! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/daniel-silva-3659022a9/))
-[![Portfolio](https://img.shields.io/badge/🌐-My_Portfolio-8A2BE2)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([[https://linkedin.com/in/yourprofile]](https://www.linkedin.com/in/daniel-silva-3659022a9/))
+<!--[![Portfolio](https://img.shields.io/badge/🌐-My_Portfolio-8A2BE2)](https://yourportfolio.com)-->
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dasil25@student.sdu.dk)
 
 I'm a [Software Engineering student] passionate about [creating innovative solutions to real-world problems using software applications].
