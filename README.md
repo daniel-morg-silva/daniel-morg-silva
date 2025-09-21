@@ -1,8 +1,4 @@
 <!--
-**daniel-morg-silva/daniel-morg-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +10,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Daniel Silva! 👋
 
-I'm a [Software Engineering student] passionate about [creating innovative solutions to real-world problems using software applications].
+I'm a [Software Engineering] student passionate about [creating innovative solutions to real-world problems using software applications].
 
 ## 🔧 Technologies & Tools
 - **Frontend:** JavaScript, HTML5, CSS
@@ -29,14 +25,14 @@ Here are a few projects I've built:
 - **[🎬 Movies](https://github.com/daniel-morg-silva/Portfolio/tree/main/PS7/movies)** | A series of SQL queries to solve complex data questions from the IMDb database, such as listing all stars for a movie or finding the top-rated titles for a given year. | **Tech Used**: SQL
 - **[📚 Speller](https://github.com/daniel-morg-silva/Portfolio/tree/main/PS5/speller)** | A spell-checking program that implements a loaded dictionary as a hash table for optimal performance. Checks a text file for misspelt words with efficient lookups. | **Tech Used**: C, Data Structures (Hash Table), Algorithms
 
-<!---
+
 ## 📈 GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
---->
+
 ## 📫 How to reach me
-- **LinkedIn:** [Daniel Silva ](https://www.linkedin.com/in/daniel-silva-3659022a9/)
+- **LinkedIn:** [Daniel Silva](https://www.linkedin.com/in/daniel-silva-3659022a9/)
 - **Email:** dasil25@student.sdu.dk
 <!---- **Portfolio:** [yourportfolio.com](https://yourportfolio.com) --->
 
