@@ -29,7 +29,7 @@ Here are a few projects I've built:
 ## 📈 GitHub Stats
 
 [![Daniel Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-morg-silva&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-morg-silva&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-morg-silva&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me
 - **LinkedIn:** [Daniel Silva](https://www.linkedin.com/in/daniel-silva-3659022a9/)
