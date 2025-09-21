@@ -10,7 +10,7 @@
 -->
 # Hi there, I'm Daniel Silva! 👋
 
-I'm a [Software Engineering] student passionate about [creating innovative solutions to real-world problems using software applications].
+I'm a Software Engineering student, passionate about back-end development and database management.
 
 ## 🔧 Technologies & Tools
 - **Frontend:** JavaScript, HTML5, CSS
@@ -28,8 +28,9 @@ Here are a few projects I've built:
 
 ## 📈 GitHub Stats
 
-[![Daniel Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-morg-silva&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-morg-silva&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniel-morg-silva&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-morg-silva&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me
 - **LinkedIn:** [Daniel Silva](https://www.linkedin.com/in/daniel-silva-3659022a9/)
