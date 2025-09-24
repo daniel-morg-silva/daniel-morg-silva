@@ -22,7 +22,7 @@ I'm a Software Engineering student, passionate about back-end development and da
 Here are a few projects I've built:
 
 - **[🖼️ Image Filter](https://github.com/daniel-morg-silva/Portfolio/blob/main/PS4/filter-more)** | A program that applies various filters (grayscale, sepia, blur, edge detection) to BMP images by directly manipulating pixel data. | **Tech Used**: C, Algorithms
-- **[🎬 Movies](https://github.com/daniel-morg-silva/Portfolio/tree/main/PS7/movies)** | A series of SQL queries to solve complex data questions from the IMDb database, such as listing all stars for a movie or finding the top-rated titles for a given year. | **Tech Used**: SQL
+- **[📔 Task Manager](https://github.com/daniel-morg-silva/Task-Manager)** | A simple command-line task manager built with C# and SQLite. It executes CRUD commands with a user-friendly, safe and optimised program. | **Tech Used**: C#, SQLite
 - **[📚 Speller](https://github.com/daniel-morg-silva/Portfolio/tree/main/PS5/speller)** | A spell-checking program that implements a loaded dictionary as a hash table for optimal performance. Checks a text file for misspelt words with efficient lookups. | **Tech Used**: C, Data Structures (Hash Table), Algorithms
 
 
