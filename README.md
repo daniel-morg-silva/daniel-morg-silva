@@ -13,9 +13,8 @@
 I'm a Software Engineering student, passionate about back-end development and database management.
 
 ## 🔧 Technologies & Tools
-- **Frontend:** JavaScript, HTML5, CSS
-- **Backend:** Python, C, C#, SQL
-- **Tools:** Git, VS Code
+- **Programming Languages:** Python, C, C#, SQL, Assembly
+- **Tools:** Git, VS Code, LaTeX
 
 ## 🚀 Featured Projects
 
