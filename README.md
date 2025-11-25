@@ -10,10 +10,10 @@
 -->
 # Hi there, I'm Daniel Silva! 👋
 
-I'm a Software Engineering student, passionate about back-end development and database management.
+I'm a Software Engineering student, passionate about back-end development and AI automation.
 
 ## 🔧 Technologies & Tools
-- **Programming Languages:** Python, C, C#, SQL, Assembly
+- **Programming Languages:** Python, C, C#, JavaScript, SQL, Assembly
 - **Tools:** Git, VS Code, LaTeX
 
 ## 🚀 Featured Projects
@@ -33,7 +33,7 @@ Here are a few projects I've built:
 
 ## 📫 How to reach me
 - **LinkedIn:** [Daniel Silva](https://www.linkedin.com/in/daniel-silva-3659022a9/)
-- **Email:** dasil25@student.sdu.dk
+- **Email:** dms121970@gmail.com
 <!---- **Portfolio:** [yourportfolio.com](https://yourportfolio.com) --->
 
 <!---
