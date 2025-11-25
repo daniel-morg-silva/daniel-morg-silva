@@ -25,11 +25,8 @@ Here are a few projects I've built:
 - **[📚 Speller](https://github.com/daniel-morg-silva/CS50-Problem-Sets/tree/main/PS5/speller)** | A spell-checking program that implements a loaded dictionary as a hash table for optimal performance. Checks a text file for misspelt words with efficient lookups. | **Tech Used**: C, Data Structures (Hash Table), Algorithms
 
 
-## 📈 GitHub Stats
+<!---##📈 GitHub Stats----> 
 
-[![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniel-morg-silva&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-morg-silva&layout=compact&theme=radical)
 
 ## 📫 How to reach me
 - **LinkedIn:** [Daniel Silva](https://www.linkedin.com/in/daniel-silva-3659022a9/)
