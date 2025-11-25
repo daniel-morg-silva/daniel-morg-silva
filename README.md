@@ -20,14 +20,14 @@ I'm a Software Engineering student, passionate about back-end development and AI
 
 Here are a few projects I've built:
 
-- **[🖼️ Image Filter](https://github.com/daniel-morg-silva/Portfolio/blob/main/PS4/filter-more)** | A program that applies various filters (grayscale, sepia, blur, edge detection) to BMP images by directly manipulating pixel data. | **Tech Used**: C, Algorithms
+- **[🖼️ Image Filter](https://github.com/daniel-morg-silva/CS50-Problem-Sets/tree/main/PS4/filter-more)** | A program that applies various filters (grayscale, sepia, blur, edge detection) to BMP images by directly manipulating pixel data. | **Tech Used**: C, Algorithms
 - **[📔 Task Manager](https://github.com/daniel-morg-silva/Task-Manager)** | A simple command-line task manager built with C# and SQLite. It executes CRUD commands with a user-friendly, safe and optimised program. | **Tech Used**: C#, SQLite
-- **[📚 Speller](https://github.com/daniel-morg-silva/Portfolio/tree/main/PS5/speller)** | A spell-checking program that implements a loaded dictionary as a hash table for optimal performance. Checks a text file for misspelt words with efficient lookups. | **Tech Used**: C, Data Structures (Hash Table), Algorithms
+- **[📚 Speller](https://github.com/daniel-morg-silva/CS50-Problem-Sets/tree/main/PS5/speller)** | A spell-checking program that implements a loaded dictionary as a hash table for optimal performance. Checks a text file for misspelt words with efficient lookups. | **Tech Used**: C, Data Structures (Hash Table), Algorithms
 
 
 ## 📈 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-morg-silva)](https://github.com/daniel-morg-silva/github-readme-stats)
+[![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniel-morg-silva&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-morg-silva&layout=compact&theme=radical)
 
